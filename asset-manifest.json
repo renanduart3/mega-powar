@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/mega-powar/static/css/main.b6608420.css",
-    "main.js": "/mega-powar/static/js/main.cdd8e956.js",
+    "main.js": "/mega-powar/static/js/main.d276afd1.js",
     "static/js/453.e443a771.chunk.js": "/mega-powar/static/js/453.e443a771.chunk.js",
     "index.html": "/mega-powar/index.html",
     "main.b6608420.css.map": "/mega-powar/static/css/main.b6608420.css.map",
-    "main.cdd8e956.js.map": "/mega-powar/static/js/main.cdd8e956.js.map",
+    "main.d276afd1.js.map": "/mega-powar/static/js/main.d276afd1.js.map",
     "453.e443a771.chunk.js.map": "/mega-powar/static/js/453.e443a771.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b6608420.css",
-    "static/js/main.cdd8e956.js"
+    "static/js/main.d276afd1.js"
   ]
 }
