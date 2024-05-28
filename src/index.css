@@ -11,3 +11,15 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.utilizado-top-10{
+  background-color: chartreuse;
+  padding: 0px 2px;
+  margin: 0px 2px;
+  border: 1px solid;
+}
+
+.numeros-normais{
+  padding: 0px 2px;
+  margin: 0px 2px;
+  border: 1px solid;
+}
